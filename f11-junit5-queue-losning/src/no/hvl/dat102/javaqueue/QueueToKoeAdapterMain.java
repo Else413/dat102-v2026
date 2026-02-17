@@ -13,11 +13,6 @@ import org.junit.jupiter.api.Test;
 import no.hvl.dat102.koeadt.KoeADT;
 
 public class QueueToKoeAdapterMain {
-	
-	@Test
-	public void t() {
-		assertEquals(1,2);
-	}
 
 	public static void main(String[] args) {
 		
